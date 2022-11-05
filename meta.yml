@@ -1,0 +1,7 @@
+name: base_web_tomcat_8u345
+title: 基础镜像 WEB Tomcat 9.0.68 OpenJDK(eclipse-temurin) 8u345
+desc: 基础镜像 WEB Tomcat 9.0.68 OpenJDK(eclipse-temurin) 8u345
+tags:
+  - web
+  - tomcat
+  - 8u345

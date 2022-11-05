@@ -1,0 +1,9 @@
+version: "3"
+services:
+  tomcat:
+    build: .
+    image: ctfhub/base_web_tomcat_8u345
+    ports:
+      - "8080:80"
+    environment:
+      - FLAG=ctfhub{base_web_tomcat_8u345}
